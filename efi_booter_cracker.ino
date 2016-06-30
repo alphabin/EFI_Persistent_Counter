@@ -1,5 +1,6 @@
 #include <usb_keyboard.h>
 #include <EEPROM.h>
+//Thank you for https://orvtech.com/ataque-fuerza-bruta-pin-icloud-en.html for the insipartion for this module
 // This code is licensed under Apache 2.0 License
 // http://www.apache.org/licenses/LICENSE-2.0.txt
 // Limitation of Liability. In no event and under no legal theory,
