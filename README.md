@@ -1,8 +1,10 @@
+                                        #Simple EFI Persistent Counter
+
 #NEED A TEENSY
 #NEED 2 Computers
 #NEED Arduino IDE
 
-# EFI_Persistent_Counter
+
 Extending the work done by Ovrtech by adding a non volatile counter so can figure the key out without needing a timer.
 
 #First load the sketch efi_booter_cracker.ino into the teensy 3.2 device.
