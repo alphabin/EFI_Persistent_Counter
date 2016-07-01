@@ -4,8 +4,10 @@
 #NEED 2 Computers
 #NEED Arduino IDE
 
-
+-----------------------------------------------------------------------------------------------------------------------------
 Extending the work done by Ovrtech by adding a non volatile counter so can figure the key out without needing a timer.
+Thank you for https://orvtech.com/ataque-fuerza-bruta-pin-icloud-en.html for the insipartion for this module.
+-----------------------------------------------------------------------------------------------------------------------------
 
 #First load the sketch efi_booter_cracker.ino into the teensy 3.2 device.
 Then run the device on your Macintosh device, I tested on 2 MacBookPro Device ranging from El Capitan and Mountain Lion.
