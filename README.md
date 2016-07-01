@@ -17,3 +17,4 @@ After the password is correctly guessed by the teensy, !!!please take out the po
 #Second upload the iteration_read.ino file to the teensy.
 Now observe through Arduino Serial Montior for memory adress 20 and the iteration count
 for eaxample if the value is something like 20 2 , it is suppose to indicate 0001 as the pin.
+REMEBER ROM LOCATION SHOULD BE CHAGED TO SAVE USEAGE OF 100000 TIMES.
